@@ -111,16 +111,16 @@ body {height: 100%;}
 .gnb_etc .login_sec > ul > li > a {box-shadow:0 12px 12px rgba(0, 0, 0, 0.1);width:144px; height:36px; line-height: 36px; text-align: center; display:block; position:relative; letter-spacing: 0.06rem; border:1px solid #ff0000; color:#ff0000; font-size:13px;  text-transform:uppercase;  font-weight:600;}
 .gnb_etc .login_sec > ul > li > a:after {position:absolute; content:''; display:block; top:0; bottom:0; left:0.6rem; right:0.6rem; border-right:2px solid #ff0000; border-left:2px solid #ff0000;}
 .gnb_etc .login_sec > ul > li > a:before {margin-right:0.6rem; position:relative; top:-2px; height:12px; content:''; display:inline-block; vertical-align:middle; background-repeat:no-repeat; background-color:#000000; background-position:0 0;}
-.gnb_etc .login_sec > ul > li.join > a:before {width:12px; background:url('/images/common/icon_regi.png');}
-.gnb_etc .login_sec > ul > li.log_on > a:before {width:10px; background:url('/images/common/icon_login.png');}
-.gnb_etc .login_sec > ul > li.log_off > a:before {width:13px; background:url('/images/common/icon_logout.png');}
+.gnb_etc .login_sec > ul > li.join > a:before {width:12px; background:url('assets/images/common/icon_regi.png');}
+.gnb_etc .login_sec > ul > li.log_on > a:before {width:10px; background:url('assets/images/common/icon_login.png');}
+.gnb_etc .login_sec > ul > li.log_off > a:before {width:13px; background:url('assets/images/common/icon_logout.png');}
 .gnb_etc .login_sec > ul > li > a:hover:before {background-position:0 -12px;}
 .gnb_etc .login_sec > ul > li.log_on > a:hover:before, .gnb_etc .login_sec > ul > li.log_off > a:hover:before {background-position:0 -13px;}
 .gnb_etc .login_sec > ul > li > a:hover {color:#fff; background:rgba(255, 0, 0, 0.4);}
 .gnb_etc .login_sec > ul > li > a:hover:after {left:0.3rem; right:0.3rem;} 
 .pc .gnb_etc .login_sec > ul > li.my {font-size:0; margin-right:1.4rem;}
 .pc .gnb_etc .login_sec .my_wrap {display:inline-block; vertical-align:middle; position:relative; max-width:144px;}
-.pc .gnb_etc .login_sec .my_wrap > a { position: relative; top: 3px;  padding-right:1.6rem; background:url('/images/common/nation_arr.png') right center no-repeat; font-size: 13px; color: #fff;  display:block; letter-spacing:0.06rem; overflow: hidden; text-overflow: ellipsis; -ms-text-overflow: ellipsis; word-wrap: normal; white-space: nowrap;}
+.pc .gnb_etc .login_sec .my_wrap > a { position: relative; top: 3px;  padding-right:1.6rem; background:url('assets/images/common/nation_arr.png') right center no-repeat; font-size: 13px; color: #fff;  display:block; letter-spacing:0.06rem; overflow: hidden; text-overflow: ellipsis; -ms-text-overflow: ellipsis; word-wrap: normal; white-space: nowrap;}
 .pc .gnb_etc .login_sec .my_wrap:hover > a {color:#fad80d;}
 .pc .gnb_etc .login_sec .my_wrap ul {display: none; position:absolute; z-index:2; width:16.4rem; right:-28px; top:44px; border-top:1px solid #ff0000;}
 .pc .gnb_etc .login_sec .my_wrap ul li {border: 1px solid #000000; border-bottom: none; }

@@ -181,7 +181,7 @@
                 $('.ov-bg').show();
                 $('.login_sec').removeClass('active');
                 $('.m_close, #gnb > h1, #gnb .quick_sns, #gnb .nation_wrap').remove();
-                $('.mp #gnb').prepend('<a class="m_close" href="#none"><img src="/images/common/btn_close_m.png" alt="mene_close"></a>');
+                $('.mp #gnb').prepend('<a class="m_close" href="#none"><img src="assets/images/common/btn_close_m.png" alt="mene_close"></a>');
                 $('.inn > h1').clone().prependTo($('.mp #gnb'));
                 $('.quick_sns').clone().appendTo($('.mp #gnb'));
                 $('.nation_wrap').clone().appendTo($('.mp #gnb'));
@@ -203,7 +203,7 @@
                 $('.ov-bg').show();
                 $('#gnb').removeClass('active');
                 $('.m_close, .login_sec > h1').remove();
-                $('.mp .login_sec').prepend('<a class="m_close" href="#none"><img src="/images/common/btn_close_m.png" alt="mene_close"></a>');
+                $('.mp .login_sec').prepend('<a class="m_close" href="#none"><img src="assets/images/common/btn_close_m.png" alt="mene_close"></a>');
                 $('.inn > h1').clone().prependTo($('.mp .login_sec'));
                 $('.login_sec').addClass('active');
                 $(".mp .login_sec ul .join").appendTo(".mp .login_sec ul.logout");

@@ -2,9 +2,9 @@
 	<div id="all_wrap">
 		<header id="head" class="pc">
 			<div class="inn clr">
-				<h1><a href="/"><img src="/images/common/logo_gnb_pb_new.png" alt="Point Blank beyond Limits"></a></h1>
-				<a href="javascript:void(0);" class="m_menu"><img src="/images/common/btn_menu.png" alt="mobile menu"></a>
-				<a href="javascript:void(0);" class="m_user"><img src="/images/common/btn_user.png" alt="mobile user"></a>
+				<h1><a href="/"><img src="assets/images/logo/logo_gnb_pb_new.png" alt="Point Blank beyond Limits"></a></h1>
+				<a href="javascript:void(0);" class="m_menu"><img src="assets/images/common/btn_menu.png" alt="mobile menu"></a>
+				<a href="javascript:void(0);" class="m_user"><img src="assets/images/common/btn_user.png" alt="mobile user"></a>
 				<nav id="gnb">
 					<ul>
 						<li class="dpt1"><a href="/news/list" data-content="News">BERITA</a></li>
