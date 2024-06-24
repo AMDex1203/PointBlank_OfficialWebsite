@@ -76,11 +76,54 @@
 					<div class="login_sec">
 						<ul class="logout">
 							<li class="join"><a href="/member/signup">REGISTRASI</a></li>
-							<li class="log_on"><a href="/login/form">LOGIN</a></li>
+							<li class="log_on"><a href="/login/">LOGIN</a></li>
 						</ul>
 					</div>
 				</div> <!-- //gnb_etc -->		
 			</div>			
 		</header>
     </div>
+	<div class="quick_area">
+			<h3>quick<br> menu</h3>
+			<div class="list">
+				<div class="dst">
+					<div class="dstc">
+					 	<ul class="q_gnb">
+							<li class="down"><a href="/game/download"><span>DOWNLOAD</span></a></li>
+							<li class="cheat"><a href="/ticket/form?mode=cheat"><span>REPORT<br>CHEATING</span></a></li>
+							<li class="topup"><a href="/topup/auth"><span>TOPUP<br>CENTER</span></a></li>
+							<li class="selector">
+								<div class="desc">
+									<span></span>
+									<div class="list">
+										<a href="/mapselector" class="map" target="_blank">Map<br> Selector</a>
+										<a href="/modeselector" class="mode" target="_blank">Mode<br> Selector</a>
+									</div>
+								</div>
+							</li>
+							<li class="attend"><a href="/game/attendance"><span>ATTENDANCE</span></a></li>
+							
+							
+								
+								<li class="mission anni15th"><a href="/event/quest?idx=22" target="_blank"><img src="/images/common/quick/mission_basic.png"><span>mission<br> event</span></a></li>
+								
+							
+							<li class="pccafe"><a href="/pccafe"><span>i-CAFE<br>OWNER</span></a></li>
+							<li class="sns">
+								<div class="desc">
+									<span></span>
+									<div class="list">
+										<a href="https://www.youtube.com/c/ZepettoPBIndonesia" class="youtube">youtube</a>
+										<a href="https://www.instagram.com/zepetto_pbindonesia" class="insta">insta</a>
+										<a href="https://www.facebook.com/PBIndonesiaZepetto/" class="facebook">facebook</a>
+										<a href="https://discord.gg/pbzepetto" class="discord">discord</a>
+										<a href="https://www.tiktok.com/@pointblankid" target="_blank" class="tiktok">tiktok</a>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div> <!-- //quick_area -->
 </body>

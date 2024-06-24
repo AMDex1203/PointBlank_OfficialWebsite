@@ -13,7 +13,7 @@ Class Home extends CI_Controller
     {
         $data['title'] = 'Evo SpaceGrid || Home';
 
-        $data['content'] = 'main/home/index';
+        $data['content'] = 'main/home_content';
         $this->load->view('main/layout/wrapper', $data, FALSE);
     }
 }
